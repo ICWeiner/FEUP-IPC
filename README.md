@@ -1,5 +1,5 @@
 # IPC
-FEUPeca
+**FEUPeca**
 
 - [Diogo Faia Nunes](https://github.com/ICWeiner)  
 - [Daniela Tomas](https://github.com/DanielaTomas)  
